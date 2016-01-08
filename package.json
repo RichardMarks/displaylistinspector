@@ -1,0 +1,22 @@
+{
+  "name": "displaylistinspector",
+  "version": "1.0.0",
+  "description": "EaselJS Display List Inspector",
+  "main": "src/DisplayListInspector.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichardMarks/displaylistinspector.git"
+  },
+  "keywords": [
+    "createjs",
+    "easeljs",
+    "es6",
+    "babel"
+  ],
+  "author": "Richard Marks <ccpsceo@gmail.com> (http://www.ccpssolutions.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RichardMarks/displaylistinspector/issues"
+  },
+  "homepage": "https://github.com/RichardMarks/displaylistinspector#readme"
+}
